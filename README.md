@@ -24,19 +24,22 @@
  ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
  
  6.	After finishing the sketch use finish sketch option to finalize the sketch.
+
  ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
+ 
  7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
  
  ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
  
  ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
  
- 
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
  
+ ![EXP 2](https://github.com/Hashwatha/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/150231431/006977bc-0c39-4468-a846-1db34a7d7cc3)
  
  ## RESULT
+ 
  Thus the given sketch is drawn and drafted using fusion 360 tool.
